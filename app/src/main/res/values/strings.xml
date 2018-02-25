@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">DEDYHENDRYANSYAHPUTRA_1106134186_MODUL3</string>
+    <string name="label_placeholder">Title</string>
+
+    <array name="img_src">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+
+    <string-array name="name_src">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Leminerale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="info_src">
+        <item>Produk ini merupakan air mineral Ades</item>
+        <item>Produk ini merupakan  air mineral Amidis</item>
+        <item>Produk ini merupakan  air mineral Aqua</item>
+        <item>Produk ini merupakan  air mineral Cleo</item>
+        <item>Produk ini merupakan  air mineral Club</item>
+        <item>Produk ini merupakan  air mineral Equil</item>
+        <item>Produk ini merupakan air mineral Evian</item>
+        <item>Produk ini merupakan  air mineral Leminerale</item>
+        <item>Produk ini merupakan  air mineral Nestle</item>
+        <item>Produk ini merupakan  air mineral Pristine</item>
+        <item>Produk ini merupakan  air mineral Vit</item>
+    </string-array>
+
+    <string name="dummy_text">
+        Produk ini merupakan air yang mengandung mineral dan juga bahan-bahan larut lainya yang dikemas dalam banyak ukuran.
+        Air Mineral memiliki banyak kandungan yang sangat berfungsi untuk menjaga kesehatan tubuh kita.
+        Air mineral bisa dibilang sebagai sesuatu yang sederhana tetapi sangat berharga.Air mineral dalam kemasan mempunyai fungsi yang sangat beragam dan menjadi hal yang sangat penting yang dibutuhkan oleh tubuh. Air mineral memiliki banyak manfaat yang dapat anda rasakan bila rutin mengkonsumsinya setiap hari.
+        Hal ini dikarenakan dalam air mineral terdapat beberapa kandungan yang dapat memberikan pengaruh bagi tubuh kita.</string>
+
+    <string name="info_placeholder">Produk ini merupakan air mineral</string>
+    <string name="air_label">Title</string>
+
+</resources>
